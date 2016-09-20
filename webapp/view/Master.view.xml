@@ -29,9 +29,9 @@
 			<OverflowToolbar id="footerbar">
 				<ToolbarSpacer />
 				<Button
-					id="btnAdd"
+					id="btnCreate"
 					icon="sap-icon://add"
-					press="onAddPress"
+					press="onCreate"
 					tooltip="Add a new supplier">
 				</Button>
 			</OverflowToolbar>
